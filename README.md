@@ -1,3 +1,11 @@
+## Características
+`JQuery`
+`Laravel`
+`Carrito de compras`
+`Anuncios`
+`Productos destacados`
+`Stock de productos`
+
 ## Requisitos
 'XAMP para correrlo de maneralocal'
 
